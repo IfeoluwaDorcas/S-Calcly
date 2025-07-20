@@ -24,9 +24,10 @@ Suggest what to do next
 
 
 Preview:
-![s-calcly](https://github.com/user-attachments/assets/0a8a03dc-6292-4382-aa96-f41dcaba6dd9)
+![s-calcly](https://github.com/user-attachments/assets/bbf7f74a-b3cb-4d2f-be54-2ad4e2d15551)
 
 
 #script
 hehe...
 Muahhhhh... kisses
+Yeshua
