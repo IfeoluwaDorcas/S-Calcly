@@ -2,7 +2,7 @@
 Hiiii. Script here
 This is my first mobile application.
 
-This is a mobile calcultor.
+This is a mobile calculator.
 It performs the following operations
 - Addition
 - Subtraction
